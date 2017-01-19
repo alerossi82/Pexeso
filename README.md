@@ -1,2 +1,4 @@
 # Pexeso
-Memory game realized with Java Swing
+Java SE project simulating a classic memory game. 
+GUI developed using Java Swing. 
+Implementation of an artificial intelligence system in progress. 
